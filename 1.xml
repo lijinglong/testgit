@@ -41,7 +41,7 @@
    <ss:Row>
     <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
     <ss:Cell><Data ss:Type="String">kepu0</Data></ss:Cell>
-    <ss:Cell><Data ss:Type="String">科普医生</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">科普</Data></ss:Cell>
     <ss:Cell><Data ss:Type="String">kepudoctor</Data></ss:Cell>
     <ss:Cell><Data ss:Type="String">0078004</Data></ss:Cell>
     <ss:Cell><Data ss:Type="String">网络科普中心</Data></ss:Cell>
